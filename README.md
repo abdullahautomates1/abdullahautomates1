@@ -54,55 +54,22 @@ After completing **FSc Pre-Medical**, I started exploring technology with a stro
 
 ### 1) Multani Foods — AI Receptionist
 An AI-powered restaurant assistant built to help users with restaurant-related queries and reservation support.
-
-**Highlights:**
-- Handles customer queries
-- Supports reservations
-- Uses workflow automation
-- Integrates business information into responses
-
 ---
 
 ### 2) Jazeera Foods — RAG Chatbot
 A chatbot designed to answer restaurant-specific questions using website and menu knowledge.
-
-**Highlights:**
-- Retrieval-based answers
-- Business-specific knowledge
-- Better customer guidance
-- Built with RAG concepts
-
 ---
 
 ### 3) NADRA Complaint Form Automation
 A form automation project for collecting and processing structured complaint data efficiently.
-
-**Highlights:**
-- Smart form submission flow
-- Organized response collection
-- Automation-based processing
-
 ---
 
 ### 4) PTM Feedback Automation
 An automated workflow for collecting parent feedback, storing it in Google Sheets, and improving reporting.
-
-**Highlights:**
-- Feedback collection
-- Automated sheet storage
-- Reporting support
-- Email-based appreciation flow
-
 ---
 
 ### 5) AI Script Writer
 An automation workflow that generates scripts from topics and stores them automatically.
-
-**Highlights:**
-- Topic-based script generation
-- Scheduled automation
-- Google Docs + Drive integration
-
 ---
 
 ## GitHub Stats

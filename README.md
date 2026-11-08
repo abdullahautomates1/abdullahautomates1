@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Abdullah&fontAlign=50&fontAlignY=35&color=0:0F172A,50:1E3A8A,100:0EA5E9&fontColor=ffffff&fontSize=38&desc=AI%20Automation%20%7C%20Agentic%20AI%20%7C%20Digital%20Marketing&descAlign=50&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Muhammad%20Abdullah&fontAlign=50&fontAlignY=35&color=0:0F172A,50:1E3A8A,100:0EA5E9&fontColor=ffffff&fontSize=38&desc=AI%20Automation%20%7C%20Agentic%20AI%20%7C%20Digital%20Marketing&descAlign=50&descAlignY=58" width="100%" alt="Muhammad Abdullah | AI Automation and Agentic AI" />
 
-# Hey there, I'm Muhammad Abdullah 👋
+# Hey there, I'm Muhammad Abdullah
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+useful+things+with+AI;AI+Automation+Learner+and+Builder;Exploring+n8n%2C+RAG%2C+AI+Agents+and+Workflows;Learning+by+building+real-world+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+useful+things+with+AI;AI+Automation+Learner+and+Builder;Exploring+n8n%2C+RAG%2C+and+AI+Agents;Learning+by+building+real-world+projects" alt="Building useful things with AI" />
 
-<br/>
+**AI Automation · AI Agents · Digital Marketing**  
+Rawalpindi, Pakistan
 
-[![GitHub followers](https://img.shields.io/github/followers/abdullahautomates1?style=for-the-badge&color=0EA5E9&labelColor=0F172A)](https://github.com/abdullahautomates1)
-[![Profile Views](https://komarev.com/ghpvc/?username=abdullahautomates1&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS)](https://github.com/abdullahautomates1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdulla-h07/)
-[![Instagram](https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mabdulla_h07/)
+<br>
+
+[![GitHub Followers](https://img.shields.io/github/followers/abdullahautomates1?style=flat-square&label=Followers&color=0EA5E9&labelColor=0F172A)](https://github.com/abdullahautomates1?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdullahautomates1&style=flat-square&color=0EA5E9&label=Profile+views)](https://github.com/abdullahautomates1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdulla-h07/)
 
 </div>
 
@@ -19,32 +21,31 @@
 
 ## About Me
 
-I'm **Muhammad Abdullah**, an aspiring **AI Automation** and **Agentic AI** builder from **Rawalpindi, Pakistan**.
+I'm **Muhammad Abdullah**, an AI automation learner and builder from **Rawalpindi, Pakistan**.
 
-After completing **FSc Pre-Medical**, I started exploring technology with a strong focus on **AI automation, workflows, websites, and digital marketing**. Right now, I’m learning by building practical projects that solve real problems and improve efficiency.
+After completing **FSc Pre-Medical**, I began exploring AI automation, modern websites, and digital marketing. I learn by creating practical projects, testing ideas, and documenting what works.
 
-### What I'm focused on:
-- Building **AI-powered workflows**
-- Exploring **n8n, webhooks, APIs, and automation systems**
-- Learning **RAG, vector databases, and AI agents**
-- Creating practical solutions for businesses
-- Improving my skills in **digital marketing and modern web tools**
+- **Building:** AI assistants, business workflows, and useful web-based tools
+- **Exploring:** n8n, APIs, webhooks, RAG, vector databases, and AI agents
+- **Developing:** Website development, digital marketing, and problem-solving skills
+- **Goal:** Build reliable, practical AI-powered solutions
 
 ---
 
-## Tech Stack
+## Tools & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,postman" />
-<br/><br/>
-<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EF6C00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI-AI_Models-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-Knowledge_Systems-1D4ED8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pinecone-Vector_Database-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Webhooks-Automation-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Google_Sheets-Data_Handling-16A34A?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Drive-Storage-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,postman&theme=dark" alt="Development tools: Python, JavaScript, HTML, CSS, Git, GitHub, VS Code, Postman" />
+
+<br><br>
+
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI_Models-1F2937?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Knowledge_Systems-1D4ED8?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_Database-0F172A?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-API_Integrations-0369A1?style=flat-square)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Data_Workflows-16803C?style=flat-square)
 
 </div>
 
@@ -52,71 +53,40 @@ After completing **FSc Pre-Medical**, I started exploring technology with a stro
 
 ## Featured Projects
 
-### 1) Multani Foods — AI Receptionist
-An AI-powered restaurant assistant built to help users with restaurant-related queries and reservation support.
+**01 · Multani Foods — AI Receptionist**  
+A restaurant assistant for menu enquiries and reservation-related workflows.  
+`n8n` `AI Agents` `Google Calendar` `Google Sheets`
 
-**Highlights:**
-- Handles customer queries
-- Supports reservations
-- Uses workflow automation
-- Integrates business information into responses
+**02 · Jazeera Foods — RAG Chatbot**  
+A chatbot that answers questions using restaurant website and menu knowledge.  
+`RAG` `Vector Store` `LLMs`
 
----
+**03 · NADRA Complaint Form Automation**  
+An independent practice project for collecting and organizing complaint submissions. Not affiliated with NADRA.  
+`Forms` `Webhooks` `Automation`
 
-### 2) Jazeera Foods — RAG Chatbot
-A chatbot designed to answer restaurant-specific questions using website and menu knowledge.
+**04 · PTM Feedback Automation & Dashboard**  
+Collects parent feedback, saves responses to Google Sheets, supports reporting, and automates appreciation emails.  
+`n8n` `Google Sheets` `Dashboards` `Email`
 
-**Highlights:**
-- Retrieval-based answers
-- Business-specific knowledge
-- Better customer guidance
-- Built with RAG concepts
+**05 · AI Script Writer**  
+A scheduled workflow that generates scripts and saves them in Google Docs and Drive.  
+`AI` `n8n` `Google Docs` `Google Drive`
 
----
-
-### 3) NADRA Complaint Form Automation
-A form automation project for collecting and processing structured complaint data efficiently.
-
-**Highlights:**
-- Smart form submission flow
-- Organized response collection
-- Automation-based processing
+<!-- Add links to individual GitHub project repositories here when they are published. -->
 
 ---
 
-### 4) PTM Feedback Automation
-An automated workflow for collecting parent feedback, storing it in Google Sheets, and improving reporting.
-
-**Highlights:**
-- Feedback collection
-- Automated sheet storage
-- Reporting support
-- Email-based appreciation flow
-
----
-
-### 5) AI Script Writer
-An automation workflow that generates scripts from topics and stores them automatically.
-
-**Highlights:**
-- Topic-based script generation
-- Scheduled automation
-- Google Docs + Drive integration
-
----
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullahautomates1&show_icons=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=1E293B" />
-<img height="170" src="https://streak-stats.demolab.com?user=abdullahautomates1&theme=transparent&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&border=1E293B" />
+<img src="https://github-stats-extended.vercel.app/api?username=abdullahautomates1&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" width="49%" alt="Muhammad Abdullah GitHub statistics" />
+<img src="https://streak-stats.demolab.com?user=abdullahautomates1&hide_border=true&background=0F172A&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" width="49%" alt="GitHub contribution streak" />
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahautomates1&bg_color=0f172a&color=cbd5e1&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahautomates1&bg_color=0f172a&color=cbd5e1&line=38bdf8&point=38bdf8&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -124,15 +94,51 @@ An automation workflow that generates scripts from topics and stores them automa
 
 ## Current Journey
 
-I’m currently learning and building in the areas of:
+I’m focused on improving my skills in **Agentic AI, n8n automation, RAG systems, API integrations, web development, and digital marketing** — one practical project at a time.
 
-- **AI Automation**
-- **Agentic AI**
-- **n8n Workflows**
-- **RAG Systems**
-- **API Integrations**
-- **Digital Marketing**
-- **Practical AI Solutions for Business**
+---
+
+## I Am a Content Creator
+
+Alongside building AI projects, I share what I learn, document experiments, and create content around technology, personal development, and my learning journey.
+
+**Follow my pages:**
+
+[![Instagram — Personal](https://img.shields.io/badge/Instagram-mabdulla__h07-1E3A8A?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mabdulla_h07/)
+[![Instagram — Abdullah in Progress](https://img.shields.io/badge/Instagram-Abdullah_in_Progress-0369A1?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abdullah.in.progress/)
+[![LinkedIn — AI & Learning](https://img.shields.io/badge/LinkedIn-Learning_Updates-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdulla-h07/)
+
+<!--
+FUTURE CREATOR PAGES: Add confirmed URLs here when available.
+Accounts shown in your reference screenshot:
+- mabdullah_2.0
+- sirat_e_mustaqeem63
+- abdullah.reflects.pk
+- deenverse.pk
+- deentoons.pk
+Do not publish guessed links.
+-->
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<!--
+This uses YOUR OWN contribution calendar, not a generic sample image.
+To activate it, add the snake.yml GitHub Actions workflow from this pack to:
+.github/workflows/snake.yml
+Run the action once; it creates the output branch and SVG files.
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahautomates1/abdullahautomates1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahautomates1/abdullahautomates1/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/abdullahautomates1/abdullahautomates1/output/github-contribution-grid-snake.svg" alt="Snake animation of Muhammad Abdullah's GitHub contributions" width="100%" />
+</picture>
+
+</div>
 
 ---
 
@@ -140,30 +146,15 @@ I’m currently learning and building in the areas of:
 
 <div align="center">
 
-<a href="https://github.com/abdullahautomates1">
-  <img src="https://img.shields.io/badge/GitHub-abdullahautomates1-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mabdulla-h07/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/mabdulla_h07/">
-  <img src="https://img.shields.io/badge/Instagram-@mabdulla_h07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/abdullah.in.progress/">
-  <img src="https://img.shields.io/badge/Instagram-@abdullah.in.progress-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:muhammadabdullah.3x@gmail.com">
-  <img src="https://img.shields.io/badge/Email-muhammadabdullah.3x@gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-abdullahautomates1-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahautomates1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdulla-h07/)
+[![Instagram](https://img.shields.io/badge/Instagram-mabdulla__h07-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mabdulla_h07/)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadabdullah.3x@gmail.com)
 
-</div>
+<br>
 
----
+### Building useful things with AI.
 
-<div align="center">
-
-### "Building useful things with AI."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:0EA5E9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:1E3A8A,100:0EA5E9" width="100%" alt="Footer" />
 
 </div>
